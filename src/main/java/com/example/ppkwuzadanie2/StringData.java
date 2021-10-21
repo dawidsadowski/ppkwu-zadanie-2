@@ -10,7 +10,10 @@ public class StringData {
 
     public StringData(String text) {
         this.text = text;
+        analyzeString(text);
+    }
 
+    private void analyzeString(String text) {
         for (int i = 0; i < text.length(); i++) {
             char c = this.text.charAt(i);
 
