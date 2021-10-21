@@ -18,7 +18,7 @@ Dla przekazanych danych wejściowych otrzymamy wynik w formacie JSON:
   "digits": 4,
   "upperCase": 5,
   "lowerCase": 8,
-  "whiteSpace": 2,
+  "whitespace": 2,
   "specialCharacters": 0
 }
 ```
