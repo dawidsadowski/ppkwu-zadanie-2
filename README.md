@@ -8,7 +8,7 @@ Aby skorzystać z API, należy wysłać żądanie GET pod adres, na którym jest
 ```
 ## Przykład
 ```
-http://localhost:8080/api/hElLo%20WoRlD1337%20aaa
+http://localhost:8080/api/hElLo%20WoRlD1337%20aaa!!!
 ```
 ## Wynik
 Dla przekazanych danych wejściowych otrzymamy wynik w formacie JSON:
@@ -19,6 +19,6 @@ Dla przekazanych danych wejściowych otrzymamy wynik w formacie JSON:
   "upperCase": 5,
   "lowerCase": 8,
   "whitespace": 2,
-  "specialCharacters": 0
+  "specialCharacters": 3
 }
 ```
