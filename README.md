@@ -14,7 +14,7 @@ http://localhost:8080/api/hElLo%20WoRlD1337%20aaa!!!
 Dla przekazanych danych wejściowych otrzymamy wynik w formacie JSON:
 ```json
 {
-  "text": "hElLo WoRlD1337 aaa",
+  "text": "hElLo WoRlD1337 aaa!!!",
   "digits": 4,
   "upperCase": 5,
   "lowerCase": 8,
